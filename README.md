@@ -1,7 +1,7 @@
 # pw_cucumber
-sandbox for playwright cucumber simple framework
+## A sandbox for playwright cucumber simple framework
 
-project/
+```project/
 │
 ├── features/
 │   ├── gmail_login.feature
@@ -23,10 +23,12 @@ project/
 │
 ├── config.py
 ├── requirements.txt
-└── env
-    ├── dev.env
-    ├── staging.env
-    └── prod.env
+├── env/
+│   ├── dev.env
+│   ├── staging.env
+│   └── prod.env
+└── README.md
+```
 
 Here's a brief description of the folders and files in the project:
 
